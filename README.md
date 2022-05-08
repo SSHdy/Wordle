@@ -26,3 +26,7 @@ word: Apple
 guess one: Abhor
 
 output: A....
+
+# Tech Stack
+
+This game is built completely with C
